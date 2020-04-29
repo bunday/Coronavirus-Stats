@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Highcharts from "highcharts";
 import HighchartsReact from "highcharts-react-official";
 import mapData from "./Data.js";
+import Stat from "./components/Stat.js";
 
 require("highcharts/modules/exporting")(Highcharts);
 require("highcharts/modules/map")(Highcharts);
@@ -83,6 +84,21 @@ class App extends Component {
     const { mapOptions } = this.state;
     return (
       <div className="bg-gray-800 h-screen">
+        <div className="text-white flex justify-around">
+          <Stat title="Total This" count="3000"/>
+          <div className="flex flex-col items-center">
+            <p className="text-xl">Total Deaths Globally</p>
+            <p className="text-3xl"> 500000 </p>
+          </div>
+          <div className="flex flex-col items-center">
+            <p className="text-xl">Total Recoveries Globally</p>
+            <p className="text-3xl"> 500000 </p>
+          </div>
+          <div className="flex flex-col items-center">
+            <p className="text-xl">Fatality Rate</p>
+            <p className="text-3xl"> 10% </p>
+          </div>
+        </div>
         <HighchartsReact
           constructorType={"mapChart"}
           highcharts={Highcharts}
