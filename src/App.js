@@ -88,7 +88,10 @@ class App extends Component {
     audio.play()
   }
     return (
-      <div className="h-screen sm:px-32 px-4">
+      <div className="h-screen sm:px-32 px-4 text-white">
+        <div>
+          <p className="text-4xl">Coronavirus Tracker</p>
+        </div>
         <GlobalStat />
         <div className="flex justify-center lg:px-48">
           <div className="w-full">
