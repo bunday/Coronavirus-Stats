@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Highcharts from "highcharts";
 import HighchartsReact from "highcharts-react-official";
 import mapData from "./Data.js";
-import Stat from "./components/Stat.js";
+import GlobalStat from "./components/Global.js";
 
 require("highcharts/modules/exporting")(Highcharts);
 require("highcharts/modules/map")(Highcharts);
@@ -82,28 +82,27 @@ class App extends Component {
   }
   render() {
     const { mapOptions } = this.state;
+    let audio = new Audio("/coronaoutdoor.m4a")
+
+  const start = () => {
+    audio.play()
+  }
     return (
-      <div className="bg-gray-800 h-screen">
-        <div className="text-white flex justify-around">
-          <Stat title="Total This" count="3000"/>
-          <div className="flex flex-col items-center">
-            <p className="text-xl">Total Deaths Globally</p>
-            <p className="text-3xl"> 500000 </p>
-          </div>
-          <div className="flex flex-col items-center">
-            <p className="text-xl">Total Recoveries Globally</p>
-            <p className="text-3xl"> 500000 </p>
-          </div>
-          <div className="flex flex-col items-center">
-            <p className="text-xl">Fatality Rate</p>
-            <p className="text-3xl"> 10% </p>
+      <div className="h-screen px-32">
+        <GlobalStat />
+        <div className="flex justify-center">
+          <div className="w-1/2">
+            <HighchartsReact
+              constructorType={"mapChart"}
+              highcharts={Highcharts}
+              options={mapOptions}
+            />
           </div>
         </div>
-        <HighchartsReact
-          constructorType={"mapChart"}
-          highcharts={Highcharts}
-          options={mapOptions}
-        />
+        <div className="bottom-0 text-white flex justify-center">
+          <p>Developed by <a href="https://zadatolayinka.dev/" className="text-teal-200" target="_blank" rel="noopener noreferrer"> Bundayy. </a> <a href="#" onClick={start}> Stay Indoor, Corona is Outdoor. 🗣</a> </p>
+          
+        </div>
       </div>
     );
   }
