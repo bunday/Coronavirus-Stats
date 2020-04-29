@@ -19,20 +19,20 @@ function GlobalStat() {
   return (
     <div className="text-white">
       <div className="py-8">
-        <div className="flex justify-center">
-          <p className="text-4xl"> Global Statistics</p>
+        <div className="flex justify-center py-2">
+          <p className="text-2xl"> Global Statistics</p>
         </div>
-        <div className="flex justify-around">
+        <div className="flex sm:flex-row sm:justify-between flex-col">
           <Stat title="Total Confirmed" count={numberWithCommas(3000)} />
           <Stat title="Total Deaths" count={numberWithCommas(3000)} />
           <Stat title="Total Recovered" count={numberWithCommas(3000)} />
         </div>
       </div>
       <div className="py-8">
-      <div className="flex justify-center">
-        <p className="text-4xl"> Nigeria's Statistics</p>
+      <div className="flex justify-center py-2">
+        <p className="text-2xl"> Nigeria's Statistics</p>
       </div>
-      <div className="flex justify-around">
+      <div className="flex sm:flex-row sm:justify-between flex-col">
         <Stat title="Total Confirmed" count={numberWithCommas(3000)} />
         <Stat title="Total Deaths" count={numberWithCommas(3000)} />
         <Stat title="Total Recovered" count={numberWithCommas(3000)} />

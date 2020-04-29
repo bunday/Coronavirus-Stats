@@ -88,10 +88,10 @@ class App extends Component {
     audio.play()
   }
     return (
-      <div className="h-screen px-32">
+      <div className="h-screen sm:px-32 px-4">
         <GlobalStat />
-        <div className="flex justify-center">
-          <div className="w-1/2">
+        <div className="flex justify-center lg:px-48">
+          <div className="w-full">
             <HighchartsReact
               constructorType={"mapChart"}
               highcharts={Highcharts}
@@ -99,7 +99,7 @@ class App extends Component {
             />
           </div>
         </div>
-        <div className="bottom-0 text-white flex justify-center">
+        <div className="bottom-0 text-white text-center flex justify-center">
           <p>Developed by <a href="https://zadatolayinka.dev/" className="text-teal-200" target="_blank" rel="noopener noreferrer"> Bundayy. </a> <a href="#" onClick={start}> Stay Indoor, Corona is Outdoor. 🗣</a> </p>
           
         </div>
