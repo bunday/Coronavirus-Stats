@@ -39,12 +39,12 @@ class App extends Component {
             data: [
               ["ng-ri", 14], // River
               ["ng-kt", 40], // Katsina
-              ["ng-so", 40], // Sokoto
-              ["ng-za", 9], // Zamfara
-              ["ng-yo", 5], // Yobe
-              ["ng-ke", 2], // Kebbi
+              ["ng-so", 53], // Sokoto
+              ["ng-za", 12], // Zamfara
+              ["ng-yo", 14], // Yobe
+              ["ng-ke", 12], // Kebbi
               ["ng-ad", 4], // Adamawa
-              ["ng-bo", 69], // Borno
+              ["ng-bo", 75], // Borno
               ["ng-ak", 16], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 2], // Imo
@@ -52,28 +52,28 @@ class App extends Component {
               ["ng-be", 1], // Benue
               ["ng-cr", 0], // Cross River
               ["ng-ta", 8], // Taraba
-              ["ng-kw", 14], // Kwara
-              ["ng-la", 1006], // Lagos
+              ["ng-kw", 16], // Kwara
+              ["ng-la", 1068], // Lagos
               ["ng-ni", 3], // Niger
-              ["ng-fc", 214], // Abuja
+              ["ng-fc", 266], // Abuja
               ["ng-og", 56], // Ogun
               ["ng-on", 13], // Ondo
               ["ng-ek", 11], // Ekiti
-              ["ng-os", 34], // Osun
-              ["ng-oy", 29], // Oyo
+              ["ng-os", 36], // Osun
+              ["ng-oy", 33], // Oyo
               ["ng-an", 1], // Anambra
-              ["ng-ba", 48], // Bauchi
-              ["ng-go", 92], // Gombe
+              ["ng-ba", 53], // Bauchi
+              ["ng-go", 96], // Gombe
               ["ng-de", 17], // Delta
-              ["ng-ed", 47], // Edo
-              ["ng-en", 4], // Enugu
-              ["ng-eb", 3], // Ebonyi
-              ["ng-kd", 35], // Kaduna
+              ["ng-ed", 52], // Edo
+              ["ng-en", 8], // Enugu
+              ["ng-eb", 5], // Ebonyi
+              ["ng-kd", 66], // Kaduna
               ["ng-ko", 0], // Kogi
-              ["ng-pl", 1], // Plateau
-              ["ng-na", 7], // Nasarawa
+              ["ng-pl", 3], // Plateau
+              ["ng-na", 9], // Nasarawa
               ["ng-ji", 7], // Jigawa
-              ["ng-kn", 311], // Kano
+              ["ng-kn", 313], // Kano
             ],
           },
         ],
