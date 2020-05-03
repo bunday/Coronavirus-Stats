@@ -38,13 +38,13 @@ class App extends Component {
             name: "Nigeria",
             data: [
               ["ng-ri", 14], // River
-              ["ng-kt", 40], // Katsina
-              ["ng-so", 53], // Sokoto
+              ["ng-kt", 48], // Katsina
+              ["ng-so", 65], // Sokoto
               ["ng-za", 12], // Zamfara
               ["ng-yo", 14], // Yobe
               ["ng-ke", 12], // Kebbi
-              ["ng-ad", 4], // Adamawa
-              ["ng-bo", 75], // Borno
+              ["ng-ad", 6], // Adamawa
+              ["ng-bo", 82], // Borno
               ["ng-ak", 16], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 2], // Imo
@@ -53,27 +53,27 @@ class App extends Component {
               ["ng-cr", 0], // Cross River
               ["ng-ta", 8], // Taraba
               ["ng-kw", 16], // Kwara
-              ["ng-la", 1068], // Lagos
+              ["ng-la", 1107], // Lagos
               ["ng-ni", 3], // Niger
-              ["ng-fc", 266], // Abuja
-              ["ng-og", 56], // Ogun
+              ["ng-fc", 278], // Abuja
+              ["ng-og", 80], // Ogun
               ["ng-on", 13], // Ondo
               ["ng-ek", 11], // Ekiti
               ["ng-os", 36], // Osun
-              ["ng-oy", 33], // Oyo
+              ["ng-oy", 34], // Oyo
               ["ng-an", 1], // Anambra
-              ["ng-ba", 53], // Bauchi
+              ["ng-ba", 71], // Bauchi
               ["ng-go", 96], // Gombe
               ["ng-de", 17], // Delta
               ["ng-ed", 52], // Edo
               ["ng-en", 8], // Enugu
               ["ng-eb", 5], // Ebonyi
-              ["ng-kd", 66], // Kaduna
+              ["ng-kd", 81], // Kaduna
               ["ng-ko", 0], // Kogi
               ["ng-pl", 3], // Plateau
-              ["ng-na", 9], // Nasarawa
+              ["ng-na", 12], // Nasarawa
               ["ng-ji", 7], // Jigawa
-              ["ng-kn", 313], // Kano
+              ["ng-kn", 342], // Kano
             ],
           },
         ],
