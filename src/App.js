@@ -37,43 +37,43 @@ class App extends Component {
             },
             name: "Nigeria",
             data: [
-              ["ng-ri", 14], // River
-              ["ng-kt", 97], // Katsina
-              ["ng-so", 84], // Sokoto
-              ["ng-za", 46], // Zamfara
+              ["ng-ri", 17], // River
+              ["ng-so", 88], // Sokoto
               ["ng-yo", 14], // Yobe
               ["ng-ke", 18], // Kebbi
               ["ng-ad", 15], // Adamawa
-              ["ng-bo", 116], // Borno
-              ["ng-ak", 16], // Akwa Ibom
+              ["ng-bo", 124], // Borno
+              ["ng-ak", 17], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 2], // Imo
               ["ng-by", 5], // Bayelsa
               ["ng-be", 2], // Benue
               ["ng-cr", 0], // Cross River
               ["ng-ta", 15], // Taraba
-              ["ng-kw", 16], // Kwara
-              ["ng-la", 1308], // Lagos
-              ["ng-ni", 4], // Niger
+              ["ng-kw", 24], // Kwara
+              ["ng-la", 1491], // Lagos
+              ["ng-ni", 6], // Niger
               ["ng-fc", 316], // Abuja
-              ["ng-og", 95], // Ogun
+              ["ng-og", 100], // Ogun
               ["ng-on", 13], // Ondo
               ["ng-ek", 12], // Ekiti
               ["ng-os", 37], // Osun
-              ["ng-oy", 52], // Oyo
+              ["ng-oy", 55], // Oyo
               ["ng-an", 1], // Anambra
-              ["ng-ba", 83], // Bauchi
-              ["ng-go", 103], // Gombe
+              ["ng-go", 109], // Gombe
               ["ng-de", 17], // Delta
               ["ng-ed", 65], // Edo
-              ["ng-en", 8], // Enugu
+              ["ng-en", 9], // Enugu
               ["ng-eb", 5], // Ebonyi
-              ["ng-kd", 85], // Kaduna
+              ["ng-kd", 92], // Kaduna
               ["ng-ko", 0], // Kogi
-              ["ng-pl", 4], // Plateau
+              ["ng-pl", 5], // Plateau
               ["ng-na", 12], // Nasarawa
-              ["ng-ji", 39], // Jigawa
-              ["ng-kn", 427], // Kano
+              ["ng-ji", 83], // Jigawa
+              ["ng-kn", 482], // Kano
+              ["ng-za", 65], // Zamfara
+              ["ng-ba", 102], // Bauchi
+              ["ng-kt", 108], // Katsina
             ],
           },
         ],
