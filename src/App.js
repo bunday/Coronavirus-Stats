@@ -38,13 +38,13 @@ class App extends Component {
             name: "Nigeria",
             data: [
               ["ng-ri", 14], // River
-              ["ng-kt", 94], // Katsina
-              ["ng-so", 66], // Sokoto
-              ["ng-za", 27], // Zamfara
+              ["ng-kt", 97], // Katsina
+              ["ng-so", 84], // Sokoto
+              ["ng-za", 46], // Zamfara
               ["ng-yo", 14], // Yobe
-              ["ng-ke", 13], // Kebbi
-              ["ng-ad", 14], // Adamawa
-              ["ng-bo", 106], // Borno
+              ["ng-ke", 18], // Kebbi
+              ["ng-ad", 15], // Adamawa
+              ["ng-bo", 116], // Borno
               ["ng-ak", 16], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 2], // Imo
@@ -53,27 +53,27 @@ class App extends Component {
               ["ng-cr", 0], // Cross River
               ["ng-ta", 15], // Taraba
               ["ng-kw", 16], // Kwara
-              ["ng-la", 1226], // Lagos
+              ["ng-la", 1308], // Lagos
               ["ng-ni", 4], // Niger
-              ["ng-fc", 307], // Abuja
-              ["ng-og", 91], // Ogun
+              ["ng-fc", 316], // Abuja
+              ["ng-og", 95], // Ogun
               ["ng-on", 13], // Ondo
               ["ng-ek", 12], // Ekiti
               ["ng-os", 37], // Osun
-              ["ng-oy", 44], // Oyo
+              ["ng-oy", 52], // Oyo
               ["ng-an", 1], // Anambra
               ["ng-ba", 83], // Bauchi
-              ["ng-go", 98], // Gombe
+              ["ng-go", 103], // Gombe
               ["ng-de", 17], // Delta
               ["ng-ed", 65], // Edo
               ["ng-en", 8], // Enugu
               ["ng-eb", 5], // Ebonyi
-              ["ng-kd", 84], // Kaduna
+              ["ng-kd", 85], // Kaduna
               ["ng-ko", 0], // Kogi
               ["ng-pl", 4], // Plateau
               ["ng-na", 12], // Nasarawa
               ["ng-ji", 39], // Jigawa
-              ["ng-kn", 397], // Kano
+              ["ng-kn", 427], // Kano
             ],
           },
         ],
