@@ -38,10 +38,10 @@ class App extends Component {
             name: "Nigeria",
             data: [
               ["ng-ri", 21], // River
-              ["ng-so", 92], // Sokoto
+              ["ng-so", 95], // Sokoto
               ["ng-yo", 14], // Yobe
-              ["ng-ke", 18], // Kebbi
-              ["ng-ad", 15], // Adamawa
+              ["ng-ke", 20], // Kebbi
+              ["ng-ad", 17], // Adamawa
               ["ng-ak", 17], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 3], // Imo
@@ -52,28 +52,28 @@ class App extends Component {
               ["ng-kw", 24], // Kwara
               ["ng-ni", 6], // Niger
               ["ng-on", 15], // Ondo
-              ["ng-ek", 12], // Ekiti
+              ["ng-ek", 13], // Ekiti
               ["ng-os", 38], // Osun
-              ["ng-oy", 59], // Oyo
+              ["ng-oy", 64], // Oyo
               ["ng-an", 1], // Anambra
               ["ng-go", 110], // Gombe
               ["ng-de", 17], // Delta
               ["ng-ed", 67], // Edo
               ["ng-en", 10], // Enugu
               ["ng-eb", 7], // Ebonyi
-              ["ng-kd", 95], // Kaduna
+              ["ng-kd", 98], // Kaduna
               ["ng-ko", 0], // Kogi
-              ["ng-pl", 15], // Plateau
+              ["ng-pl", 17], // Plateau
               ["ng-na", 26], // Nasarawa
               ["ng-ji", 83], // Jigawa
-              ["ng-la", 1667], // Lagos
-              ["ng-fc", 336], // Abuja
-              ["ng-kn", 547], // Kano
+              ["ng-la", 1764], // Lagos
+              ["ng-fc", 343], // Abuja
+              ["ng-kn", 576], // Kano
               ["ng-za", 65], // Zamfara
-              ["ng-ba", 117], // Bauchi
-              ["ng-kt", 139], // Katsina
-              ["ng-bo", 141], // Borno
-              ["ng-og", 113], // Ogun
+              ["ng-ba", 161], // Bauchi
+              ["ng-kt", 158], // Katsina
+              ["ng-bo", 158], // Borno
+              ["ng-og", 115], // Ogun
             ],
           },
         ],
