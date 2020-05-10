@@ -38,42 +38,42 @@ class App extends Component {
             name: "Nigeria",
             data: [
               ["ng-ri", 21], // River
-              ["ng-so", 95], // Sokoto
+              ["ng-so", 105], // Sokoto
               ["ng-yo", 14], // Yobe
-              ["ng-ke", 20], // Kebbi
+              ["ng-ke", 24], // Kebbi
               ["ng-ad", 17], // Adamawa
               ["ng-ak", 17], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 3], // Imo
-              ["ng-by", 5], // Bayelsa
+              ["ng-by", 6], // Bayelsa
               ["ng-be", 2], // Benue
               ["ng-cr", 0], // Cross River
-              ["ng-ta", 15], // Taraba
-              ["ng-kw", 24], // Kwara
+              ["ng-ta", 17], // Taraba
+              ["ng-kw", 28], // Kwara
               ["ng-ni", 6], // Niger
               ["ng-on", 15], // Ondo
-              ["ng-ek", 13], // Ekiti
-              ["ng-os", 38], // Osun
+              ["ng-ek", 15], // Ekiti
+              ["ng-os", 39], // Osun
               ["ng-oy", 64], // Oyo
               ["ng-an", 1], // Anambra
-              ["ng-go", 110], // Gombe
+              ["ng-go", 112], // Gombe
               ["ng-de", 17], // Delta
-              ["ng-ed", 67], // Edo
+              ["ng-ed", 79], // Edo
               ["ng-en", 10], // Enugu
               ["ng-eb", 7], // Ebonyi
               ["ng-kd", 98], // Kaduna
               ["ng-ko", 0], // Kogi
               ["ng-pl", 17], // Plateau
               ["ng-na", 26], // Nasarawa
-              ["ng-ji", 83], // Jigawa
-              ["ng-la", 1764], // Lagos
-              ["ng-fc", 343], // Abuja
-              ["ng-kn", 576], // Kano
-              ["ng-za", 65], // Zamfara
-              ["ng-ba", 161], // Bauchi
+              ["ng-ji", 118], // Jigawa
+              ["ng-la", 1845], // Lagos
+              ["ng-fc", 356], // Abuja
+              ["ng-kn", 602], // Kano
+              ["ng-za", 72], // Zamfara
+              ["ng-ba", 181], // Bauchi
               ["ng-kt", 158], // Katsina
-              ["ng-bo", 158], // Borno
-              ["ng-og", 115], // Ogun
+              ["ng-bo", 184], // Borno
+              ["ng-og", 117], // Ogun
             ],
           },
         ],
