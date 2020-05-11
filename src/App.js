@@ -37,11 +37,11 @@ class App extends Component {
             },
             name: "Nigeria",
             data: [
-              ["ng-ri", 21], // River
+              ["ng-ri", 22], // River
               ["ng-so", 105], // Sokoto
               ["ng-yo", 14], // Yobe
               ["ng-ke", 24], // Kebbi
-              ["ng-ad", 17], // Adamawa
+              ["ng-ad", 21], // Adamawa
               ["ng-ak", 17], // Akwa Ibom
               ["ng-ab", 2], // Abia
               ["ng-im", 3], // Imo
@@ -51,29 +51,29 @@ class App extends Component {
               ["ng-ta", 17], // Taraba
               ["ng-kw", 28], // Kwara
               ["ng-ni", 6], // Niger
-              ["ng-on", 15], // Ondo
+              ["ng-on", 16], // Ondo
               ["ng-ek", 15], // Ekiti
               ["ng-os", 39], // Osun
-              ["ng-oy", 64], // Oyo
+              ["ng-oy", 65], // Oyo
               ["ng-an", 1], // Anambra
-              ["ng-go", 112], // Gombe
+              ["ng-go", 118], // Gombe
               ["ng-de", 17], // Delta
               ["ng-ed", 79], // Edo
               ["ng-en", 10], // Enugu
               ["ng-eb", 7], // Ebonyi
-              ["ng-kd", 98], // Kaduna
+              ["ng-kd", 111], // Kaduna
               ["ng-ko", 0], // Kogi
               ["ng-pl", 17], // Plateau
               ["ng-na", 26], // Nasarawa
               ["ng-ji", 118], // Jigawa
-              ["ng-la", 1845], // Lagos
-              ["ng-fc", 356], // Abuja
-              ["ng-kn", 602], // Kano
-              ["ng-za", 72], // Zamfara
-              ["ng-ba", 181], // Bauchi
-              ["ng-kt", 158], // Katsina
-              ["ng-bo", 184], // Borno
-              ["ng-og", 117], // Ogun
+              ["ng-la", 1933], // Lagos
+              ["ng-fc", 359], // Abuja
+              ["ng-kn", 666], // Kano
+              ["ng-za", 73], // Zamfara
+              ["ng-ba", 182], // Bauchi
+              ["ng-kt", 207], // Katsina
+              ["ng-bo", 185], // Borno
+              ["ng-og", 126], // Ogun
             ],
           },
         ],
