@@ -37,43 +37,43 @@ class App extends Component {
             },
             name: "Nigeria",
             data: [
-              ["ng-ri", 33], // River
-              ["ng-so", 112], // Sokoto
-              ["ng-yo", 20], // Yobe
-              ["ng-ke", 31], // Kebbi
-              ["ng-ad", 21], // Adamawa
-              ["ng-ak", 17], // Akwa Ibom
-              ["ng-ab", 2], // Abia
-              ["ng-im", 3], // Imo
-              ["ng-by", 6], // Bayelsa
-              ["ng-be", 4], // Benue
+              ["ng-ri", 89], // River
+              ["ng-so", 116], // Sokoto
+              ["ng-yo", 47], // Yobe
+              ["ng-ke", 32], // Kebbi
+              ["ng-ad", 27], // Adamawa
+              ["ng-ak", 21], // Akwa Ibom
+              ["ng-ab", 7], // Abia
+              ["ng-im", 7], // Imo
+              ["ng-by", 8], // Bayelsa
+              ["ng-be", 5], // Benue
               ["ng-cr", 0], // Cross River
-              ["ng-ta", 17], // Taraba
-              ["ng-kw", 53], // Kwara
-              ["ng-ni", 10], // Niger
-              ["ng-on", 18], // Ondo
-              ["ng-ek", 15], // Ekiti
+              ["ng-ta", 18], // Taraba
+              ["ng-kw", 73], // Kwara
+              ["ng-ni", 23], // Niger
+              ["ng-on", 23], // Ondo
+              ["ng-ek", 20], // Ekiti
               ["ng-os", 42], // Osun
-              ["ng-oy", 73], // Oyo
-              ["ng-an", 2], // Anambra
-              ["ng-go", 119], // Gombe
-              ["ng-de", 22], // Delta
-              ["ng-ed", 89], // Edo
-              ["ng-en", 12], // Enugu
-              ["ng-eb", 2], // Ebonyi
-              ["ng-kd", 116], // Kaduna
+              ["ng-oy", 199], // Oyo
+              ["ng-an", 6], // Anambra
+              ["ng-go", 145], // Gombe
+              ["ng-de", 31], // Delta
+              ["ng-ed", 144], // Edo
+              ["ng-en", 16], // Enugu
+              ["ng-eb", 22], // Ebonyi
+              ["ng-kd", 179], // Kaduna
               ["ng-ko", 0], // Kogi
-              ["ng-pl", 20], // Plateau
-              ["ng-na", 28], // Nasarawa
-              ["ng-ji", 141], // Jigawa
-              ["ng-la", 2041], // Lagos
-              ["ng-fc", 370], // Abuja
-              ["ng-kn", 707], // Kano
-              ["ng-za", 73], // Zamfara
-              ["ng-ba", 206], // Bauchi
-              ["ng-kt", 224], // Katsina
-              ["ng-bo", 188], // Borno
-              ["ng-og", 127], // Ogun
+              ["ng-pl", 71], // Plateau
+              ["ng-na", 38], // Nasarawa
+              ["ng-ji", 241], // Jigawa
+              ["ng-la", 3224], // Lagos
+              ["ng-fc", 447], // Abuja
+              ["ng-kn", 883], // Kano
+              ["ng-za", 76], // Zamfara
+              ["ng-ba", 230], // Bauchi
+              ["ng-kt", 308], // Katsina
+              ["ng-bo", 247], // Borno
+              ["ng-og", 196], // Ogun
             ],
           },
         ],
